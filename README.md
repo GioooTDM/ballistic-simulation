@@ -1,6 +1,6 @@
 # Intercettazione balistica
 
-![Immagine](/img/hero_text.jpg){ width=75% }
+![Immagine](/img/hero_text.jpg)
 
 ## 1 · Descrizione del problema
 Un missile attaccante, chiamato **bersaglio**, parte da destra verso sinistra con moto parabolico.  
