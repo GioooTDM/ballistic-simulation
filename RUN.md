@@ -4,7 +4,7 @@
 python3 -m venv venv
 
 ## 2. Attivazione ambiente virtuale
-# Linux/macOS:
+Linux/macOS:
 source venv/bin/activate
 
 ## 3. Installazione dipendenze (solo la prima volta)
